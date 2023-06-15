@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:src="@drawable/madhuri"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="15dp"
+        android:text="Madhuri Dixit Nene (née Dixit; born 15 May 1967) is an Indian actress who primarily works in Hindi films. A leading actress of Indian cinema, she has appeared in over 70 films.[1][2] Noted by critics for her beauty, dancing skills, and characters, Dixit was credited for singularly paralleling her male contemporaries and leading star vehicles in a male-dominated industry.[3] She was among the country's highest-paid celebrities throughout the 1990s and early 2000s, and has featured in Forbes India's Celebrity 100 list since its inception in 2012.[4][5] Her accolades include six Filmfare Awards from a record 17 nominations. In 2008, the Government of India awarded her with Padma Shri, the fourth-highest civilian honour of the country."
+         />
+
+    </ScrollView>
+
+
+
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:src="@drawable/katrina"
+        tools:srcCompat="@tools:sample/avatars" />
+
+
+</LinearLayout>

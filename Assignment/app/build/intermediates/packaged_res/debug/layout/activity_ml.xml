@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ml">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="Machine Learning"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:textColor="@color/purple_500"
+        android:layout_margin="30dp"
+        android:padding="10dp"
+        android:text="1. Applied Mathematics
+
+Maths is quite an important skill in the arsenal of a Machine Learning engineer. \n2. Computer Science Fundamentals and Programming
+
+This is another basic requirement for becoming a good machine learning engineer. You need to be familiar with different CS concepts like data structures (stack, queue, tree, graph), algorithms (searching, sorting, dynamic and greedy programming), space and time complexity, etc.\n
+3. Machine Learning Algorithms
+What is a very important skill in becoming a Machine Learning Engineer? Obviously, it’s very important to know all the common machine learning algorithms so that you know where to apply what algorithms. Mostly ML algorithms are divided into 3 common types namely, Supervised, Unsupervised, and Reinforcement Machine Learning Algorithms.
+\n4. Data Modeling and Evaluation
+
+As a machine learning engineer, you should be skilled in data modeling and evaluation. After all, data is your bread and butter! Data modeling involves understanding the underlying structure of the data and then finding patterns that are not obvious to the naked eye.
+\n 5. Communication Skills
+
+And finally, we come to a skill that is a soft skill and may not be considered that important. However, if you are good at communication skills, it can make a world of difference in your career trajectory.
+" />
+
+
+</LinearLayout>

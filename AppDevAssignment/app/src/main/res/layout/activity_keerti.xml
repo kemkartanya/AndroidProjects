@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#04053A"
+    tools:context=".keerti">
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        app:srcCompat="@drawable/img_1" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_margin="15dp"
+        android:textColor="@color/white"
+        android:text="I am a software developer who teaches software engineering concepts to thousands of people through my YouTube channel, bootcamps, and courses.
+Additionally, I share insights about my journey of inclusion and mental health in the industry, along with tutorials, mock interviews, and more on my YouTube channel. I thoroughly enjoy this rewarding journey. ❤️" />
+</LinearLayout>

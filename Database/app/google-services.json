@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396330023255",
+    "project_id": "database-6f24a",
+    "storage_bucket": "database-6f24a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396330023255:android:19372fc420d455d8492612",
+        "android_client_info": {
+          "package_name": "me.tanyakemkar.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC4HZLJQmZgeMPtvJcb6mSVoNT1NIOKbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

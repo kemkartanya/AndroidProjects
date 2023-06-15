@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".iosapp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="IOS App Development"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:textColor="@color/purple_500"
+        android:layout_margin="30dp"
+        android:padding="10dp"
+        android:text="Understand ‘Apple Developer’ (formerly called the Apple Developer Connection or ADC) from an overview perspective. Apple Developer consists of the resources you will need to write the software for iOS, macOS, watchOS, and tvOS.\n
+Learn Xcode and Interface Builder in-depth. Xcode is the IDE or integrated development environment that you need to develop software for iOS and other Apple software. To run Xcode, you will need a machine running macOS. Interface Builder will allow you to create iOS interfaces using a GUI (graphical user interface). \n
+Auto Layout. Learning to use Auto Layout within Xcode will help you build user interfaces for devices of different sizes.\n
+Table views. Table views are another vital component of the user interface that will help you manage long-scrolling lists in iOS apps. \n
+Containers and storyboards. Containers help you create screen navigation flow in your iOS app, while storyboards allow you to design and organize navigation flows created using containers.
+" />
+
+</LinearLayout>

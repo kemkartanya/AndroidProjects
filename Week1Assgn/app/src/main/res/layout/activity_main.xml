@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/login_or_create_an_account"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_margin="30dp" />
+
+    <EditText
+        android:id="@+id/editTextPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:text="+91 "
+        android:inputType="phone"
+        android:layout_margin="30dp"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:text="For verification, an SMS will be sent from your mobile number, Standard operator charges may apply. By proceeding you agree to our Terms &amp; Conditions &amp; Privacy Policy" />
+
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="300dp"
+        android:layout_margin="50dp"
+        android:layout_height="60dp"
+        android:drawableLeft="@drawable/baseline_lock_24"
+        android:backgroundTint="#00bfff"
+        android:text="Proceed Securely" />
+
+
+</LinearLayout>

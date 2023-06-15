@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91004138434",
+    "project_id": "logging-project-ae9e4",
+    "storage_bucket": "logging-project-ae9e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91004138434:android:dd12ad60df98bfa7a49c5b",
+        "android_client_info": {
+          "package_name": "me.tanyakemkar.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5EqZPK5-_F7Jz1BWSox5sTcB3mg-jld4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

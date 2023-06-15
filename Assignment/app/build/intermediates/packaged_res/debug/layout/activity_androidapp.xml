@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".androidapp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="Android App Development"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="@color/purple_500"
+        android:layout_margin="30dp"
+        android:padding="10dp"
+        android:text="Design and develop advanced applications for the Android platform.
+Use Github, where developers can easily collaborate, download new software versions, make changes, and upload the latest version.
+Work with cross-functional teams to design, develop, and deploy new application features.
+Analyze and understand how databases (MySQL, MongoDB) work.
+Implement external data sources and APIs (application programming interfaces).
+Find and troubleshoot bugs in new and existing applications.
+Discover, evaluate, and continuously implement new technologies to enhance application performance.
+" />
+</LinearLayout>

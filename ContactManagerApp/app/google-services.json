@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "2428845217",
+    "firebase_url": "https://contact-manager-app-b6515-default-rtdb.firebaseio.com",
+    "project_id": "contact-manager-app-b6515",
+    "storage_bucket": "contact-manager-app-b6515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2428845217:android:ed40a74f0e29e65359c4e0",
+        "android_client_info": {
+          "package_name": "me.tanyakemkar.contactmanagerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzXTqmqZfDCyUj1XeHEEibeqwBQkKekUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

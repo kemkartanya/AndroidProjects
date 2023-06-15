@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".webdev">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="Website Development"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textColor="@color/purple_500"
+        android:layout_margin="30dp"
+        android:padding="10dp"
+        android:text="Visual design skills
+Skilled in back-end coding languages such as C#, PHP, Ruby, etc.\n
+Experience or knowledge of design software such as Adobe Photoshop, etc.\n
+Knowledge of web servers and their functioning\n
+Knowledge of coding languages such as HTML, CSS, JavaScript, etc.\n
+Expertise in writing codes using front-end programming languages such as Ajax, etc.\n
+Knowledge of user interface (UI) and user experience (UX).\n
+Knowledge of techniques of web animation.\n
+Understanding of SEO techniques and best practices.
+" />
+
+</LinearLayout>

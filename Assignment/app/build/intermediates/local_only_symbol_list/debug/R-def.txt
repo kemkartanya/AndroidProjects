@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id androidappdev
+id blockchain
+id button
+id button2
+id cybersecurity
+id iosappdev
+id ml
+id textView
+id textView2
+id webdev
+layout activity_androidapp
+layout activity_blockchain
+layout activity_cybersecurity
+layout activity_iosapp
+layout activity_main
+layout activity_ml
+layout activity_technologies
+layout activity_webdev
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Assignment
+xml backup_rules
+xml data_extraction_rules

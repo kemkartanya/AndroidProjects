@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442743408072",
+    "project_id": "loginsignup-auth-38b1d",
+    "storage_bucket": "loginsignup-auth-38b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442743408072:android:61e2dc30fa1b2997c02cfd",
+        "android_client_info": {
+          "package_name": "me.tanyakemkar.loginsignupauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB98FL570pzQlO8FhESpVg1y8B8W8j8fSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

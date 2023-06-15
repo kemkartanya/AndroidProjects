@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".cybersecurity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="Cybersecurity"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:textColor="@color/purple_500"
+        android:layout_margin="30dp"
+        android:padding="10dp"
+        android:text="1. Scripting
+Scripting is a type of coding in which you make a program do something. The difference is that coding is static, whereas scripts can make images and text move around.\n2. Controls and frameworks
+A cybersecurity framework provides a collection of best practices, policies, tools, and security protocols designed to help secure an organization’s data and business operations. A control is a measure your company uses to protect itself from vulnerabilities and attacks.
+\n3. Intrusion detection
+As a cybersecurity analyst, a big part of your job will involve monitoring network activity for possible intrusions. Knowing how to use intrusion detection software—security information and event management (SIEM) products, intrusion detection systems (IDS), and intrusion prevention systems (IPS)—enables you to quickly identify suspicious activity or security violations.\n4. Network security control
+Many cybersecurity attacks take place across a network of connected devices. The same technologies that allow companies to collaborate can also lead to security vulnerabilities. To keep an organization secure, you’ll need an understanding of wired and wireless networks, and how to secure them.
+
+
+" />
+
+
+</LinearLayout>

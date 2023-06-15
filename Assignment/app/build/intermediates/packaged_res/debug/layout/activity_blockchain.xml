@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".blockchain">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:text="Blockchain"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:textColor="@color/purple_500"
+        android:layout_margin="30dp"
+        android:padding="10dp"
+        android:text="1. Excellent Understanding of Blockchain Technology
+This one is a given. You can't expect to be a successful blockchain developer unless you understand how decentralized networks work.\n2. Proficiency in at least one high-level programming language
+C++, Golang, C#, JavaScript, Solidity, Python, Ruby, and Java are considered some of the most popular programming languages for blockchain development. Bitcoin, the popular cryptocurrency, was initially built using C++.\n3. Solid grasp of cryptography and security principles
+Blockchain technology is secure because it relies on cryptography. So, to be a good blockchain developer, you'll need to have a strong understanding of cryptography and security principles.
+\n 4. Experience with distributed systems and peer-to-peer networking
+Blockchain technology is a decentralized system that means no single entity has control or power over it.
+
+In that vein, understanding how distributed systems and peer-to-peer networking works is essential for developing blockchain applications.
+
+
+" />
+
+
+</LinearLayout>
